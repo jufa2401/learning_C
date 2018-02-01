@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include "usingScan.h"
+
 //Experimenting with pointers
 int j,k;        // two ints
 int *ptr;       // an int's pointer variable
@@ -22,5 +24,8 @@ int main() {
     swap(&j, &k);
     printf("j has the value %d, k has the value %d\n",j,k);
 
+
+    name();
+    birthday();
     return 0;
 }
