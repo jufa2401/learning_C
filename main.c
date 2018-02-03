@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "usingScan.h"
+#include "assignments.h"
 
 //Experimenting with pointers
 int j,k;        // two ints
@@ -25,7 +25,9 @@ int main() {
     printf("j has the value %d, k has the value %d\n",j,k);
 
 
-    name();
-    birthday();
+//    name();
+//    birthday();
+    assignemnt1q1();
+
     return 0;
 }
