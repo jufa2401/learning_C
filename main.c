@@ -1,5 +1,7 @@
 #include <stdio.h>
-#include "assignments.h"
+#include "assignment1.h"
+#include "assignment2.h"
+#include "assignment3.h"
 
 //Experimenting with pointers
 int j,k;        // two ints
@@ -27,7 +29,10 @@ int main() {
 
 //    name();
 //    birthday();
-    assignemnt1q1();
+//    assignemnt1q1();
+
+//    binary(20);
+    base(9,3);
 
     return 0;
 }

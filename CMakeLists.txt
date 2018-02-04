@@ -6,4 +6,4 @@ set (CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wextra")
 set (CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -Wall -Wextra")
 
 
-add_executable(untitled main.c usingScan.h math.h assignments.h assignments.c)
+add_executable(untitled main.c usingScan.h math.h assignment1.h assignment1.c assignment2.h assignment2.c assignment3.h assignment3.c)
