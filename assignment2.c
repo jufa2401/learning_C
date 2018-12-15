@@ -3,7 +3,6 @@
 // Created by justin on 2/2/18.
 //
 
-// this function prints  from 1 to 15 in a loop, that is never escaped
 
 void binary(unsigned int number){
 
